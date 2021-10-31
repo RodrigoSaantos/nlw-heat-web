@@ -123,14 +123,8 @@ By Rodrigo Santos 👋🏽 Find me:
 
 <h1 align="center">
   <div style="display: flex; flex-direction: row;">
-    <img width="900" style="border-radius: 10px" height="auto" alt="Login" title="Login" src="public/demo.gif" />
+    <img width="900" style="border-radius: 10px" height="auto" alt="Home" title="home" src="public/demo.gif" />
   <div>
-
-    Mobile
-  ---
-  Dashboard | Users | Menu
-  --- | --- | ---
-  <img width="300" style="border-radius: 10px" height="600" alt="Login" title="Login" src="public/mobile-dashboard.png" /> | <img width="300" style="border-radius: 10px" height="600" alt="Login" title="Login" src="public/mobile-users.png" /> | <img width="300" style="border-radius: 10px" height="600" alt="Login" title="Login" src="public/mobile-menu.png" />
 </h1>
 
 
